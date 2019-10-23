@@ -1,0 +1,40 @@
+table {
+   font-family: 'FantasqueSansMonoRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 25px;
+   color: #151515;
+    background-color: #cccccc;
+    margin: auto;
+}
+
+h1 {
+   font-family: 'FantasqueSansMonoRegular';
+   font-weight: normal;
+   font-style: normal;
+   color: #444444;
+   text-align: center;
+   margin: auto;
+} 
+
+.center{
+    margin: auto;
+    text-align: center;
+}
+
+.stapel_element{
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.thicc_bottom{
+    border-bottom: 4px solid blue;
+}
+
+.thicc_top{
+    border-top: 4px solid #000;
+}
+
+body {
+    background-color: #dddddd
+}
