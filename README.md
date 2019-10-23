@@ -2,7 +2,7 @@ SUSIE - Seppe's Ultimate Stapel Illustrator Extreme
 ===================================================
 
 ## What's this?
-This project was inspired by [FrostTusk/DRAMA-Stapel-Tekenaar](https://github.com/FrostTusk/DRAMA-Stapel-Tekenaar) and it helps you drawing your DRAMA stapel.
+This project was inspired by [FrostTusk/DRAMA-Stapel-Tekenaar](https://github.com/FrostTusk/DRAMA-Stapel-Tekenaar) and it helps you drawing your [DRAMA](https://nl.wikipedia.org/wiki/Drama_(assembleertaal)) stapel.
 
 ## Usage
 - Download the repository and open the index.html file in your browser.
