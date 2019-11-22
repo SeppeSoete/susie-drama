@@ -32,7 +32,7 @@ function generate_stapel_html()
 
         }
 
-        html += `<tr><td class="stapel_element">Oude R8</td></tr><tr><td class="stapel_element thicc_bottom">TKA: ${current_function.name}</td></tr>`
+        html += `<tr><td class="stapel_element thicc_bottom">TKA: ${current_function.name}</td></tr><tr><td class="stapel_element">Oude R8</td></tr>`
 
         for( let param_idx = 0; param_idx < current_function.parameters.length; param_idx++)
         {
